@@ -1,0 +1,23 @@
+{
+  "project": "PS4 to PS5 Transfer Tool",
+  "version": "0.1.0",
+  "status": "prototype",
+  "implemented": [
+    "portable C++17 backup engine",
+    "SHA-256",
+    "manifest",
+    "verification",
+    "safe restore",
+    "GUI state model",
+    "Windows demo"
+  ],
+  "pending": [
+    "PS4 native GUI and PKG",
+    "PS5 native GUI and PKG",
+    "console user discovery",
+    "USB native integration",
+    "firmware validation",
+    "console filesystem adapters"
+  ],
+  "tested_on_console": false
+}
